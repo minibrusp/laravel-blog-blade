@@ -1,6 +1,6 @@
 ## Links
 
-- ### Live Site URL : [Live Server](http://www.laravel-blog-prac.c1.is/blog)
+- ### Live Site URL : [Live Server](http://www.laravel-blog-prac.c1.is)
 - ### Hosting : [GoogieHost](https://googiehost.com/)
 
 
